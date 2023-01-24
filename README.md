@@ -1,5 +1,5 @@
 # Projektne faze
-- [ ] - Opis projekta
+- [✓] - Opis projekta
 - [ ] - Početna struktura aplikacije
 - [ ] - Prototip
 - [ ] - Konzultacije
@@ -11,10 +11,10 @@
 Ovdje ide opis projekta
 
 ## Popis funkcionalnosti
-1. a
-2. b
-3. c
 
+1. 
+2.
+3.
 
 ## UPUTE
 ## Opis projekta
