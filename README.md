@@ -8,7 +8,11 @@
 
 # Opis projekta
 ## Kratki opis
-Ovdje ide opis projekta
+Tema ovog projekta je izrada kviza u obliku mobilne aplikacije. Korisnik će dobiti na odabir određene kategorije u koja će pitanja biti raspoređena (npr. povijest, sport, glazba, znanost...), te će nakon odabira kategorije započeti sa igrom. 
+
+Na svako pitanje korisnik će imati ponuđena četiri odgovora od kojih je jedan točan. Korisnik će nakon odabira svog odgovora odmah dobiti povratnu informaciju je li njegov pokušaj točan. 
+
+Nakon što je korisnik odgovorio na sva pitanja, prikazat će mu se rezultat ove runde, kao i statistika o tome koliko je do sada bio uspješan u toj kategoriji (npr. ukoliko je odigrao tu kategoriju dva puta - prvi put sa 7/10 točnih odgovora, a drugi put 6/10 - prikazat će mu se da je bio uspješan 65% u toj kategoriji). Korisniku će isto tako uvijek biti dostupna opcija statistike svih pojedinačnih kategorija na jednom mjestu.
 
 ## Popis funkcionalnosti
 
