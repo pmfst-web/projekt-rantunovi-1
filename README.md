@@ -1,5 +1,5 @@
 # Projektne faze
-- [✓] - Opis projekta
+- [ ] - Opis projekta
 - [ ] - Početna struktura aplikacije
 - [ ] - Prototip
 - [ ] - Konzultacije
@@ -16,9 +16,9 @@ Nakon što je korisnik odgovorio na sva pitanja, prikazat će mu se rezultat ove
 
 ## Popis funkcionalnosti
 
-1. 
-2.
-3.
+1. Odabir kategorije
+2. Igranje runde
+3. Prikaz statistike
 
 ## UPUTE
 ## Opis projekta
