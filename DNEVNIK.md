@@ -1,4 +1,5 @@
 # Evidencija aktivnosti
+<x>
 ## 24.01.2023.
 Pocetak | Kraj
 ------- | ----
@@ -6,3 +7,4 @@ Pocetak | Kraj
 ### Kratki opis promjena
 Definirani zahtjevi aplikacije.
 Dovršena prva faza projekta.
+<x>
