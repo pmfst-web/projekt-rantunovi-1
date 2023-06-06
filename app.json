@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "projekt-template",
-    "slug": "projekt-template",
+    "name": "cranky-kiwi",
+    "slug": "snack-3dc9655d-bba1-4aca-95de-d0927ac88131",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
